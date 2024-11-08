@@ -1,0 +1,24 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: blue;
+}
+h2{background-color: brown;color: blue;
+
+}
+h4{
+    color: blue; font-family: unset;
+}
+p{
+    color: blue;
+}
+select{color: brown;
+
+}
+input{color: rgb(255, 0, 85);
+
+}
+label{color: blue;
+
+}
+body{background-color: gold;
+
+}
